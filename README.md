@@ -1,4 +1,3 @@
-# Olympic-Data-Engineering-Project
 
 Athletes.csv
 Coaches.csv
